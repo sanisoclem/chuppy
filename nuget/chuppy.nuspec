@@ -2,7 +2,6 @@
 <package >
   <metadata>
     <id>chuppy</id>
-    <version>$version$</version>
     <title>Chuppy</title>
     <authors>Jerahmeel Cosinas</authors>
     <owners>Jerahmeel Cosinas</owners>
