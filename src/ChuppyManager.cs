@@ -22,6 +22,8 @@ namespace chuppy
         public static void Initialize(IInitializationProvider provider) {
             if (_hasInit)
                 return;
+
+            _hasInit = true;
             // -- run init code
             RunHook<ApplicationInitializeAttribute, IInitializationContext>(provider);
             // -- signal caller that init is complete
