@@ -15,7 +15,4 @@
     <copyright>Copyright 2016</copyright>
     <tags>chuppy activator IoC plugin</tags>
   </metadata>
-  <files>
-    <file src="lib\portable-net4+win8\_._" target="lib\portable-net4+win8\_._" />
-  </files>
 </package>
