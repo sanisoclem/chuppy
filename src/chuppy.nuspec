@@ -1,20 +1,18 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>chuppy</id>
-    <title>Chuppy</title>
-    <authors>Jerahmeel Cosinas</authors>
-    <owners>Jerahmeel Cosinas</owners>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
     <licenseUrl>https://github.com/sanisoclem/chuppy/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/sanisoclem/chuppy/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/sanisoclem/chuppy/master/icon/paw.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Chuppy provides flexible application hooks to promote decoupling and enable hot swapping of components.</description>
+    <description>$description$</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright &#x00A9; Jerahmeel Cosinas.  All rights reserved.</copyright>
+    <copyright>Copyright 2016</copyright>
     <tags>chuppy activator IoC plugin</tags>
   </metadata>
-  <files>
-	<file src="..\build\chuppy.dll" target="lib\net40\" />
-  </files>
 </package>
